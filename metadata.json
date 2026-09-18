@@ -1,0 +1,6 @@
+{
+  "name": "AVCI AI",
+  "description": "AVCI AI - Gelişmiş Türkçe ve çok dilli yapay zeka asistanı, kod yazma, görsel analiz, sesli konuşma ve akıllı üretim platformu.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
